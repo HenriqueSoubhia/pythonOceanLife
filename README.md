@@ -4,12 +4,8 @@
 - **RM**: 555339
 - **Nome**: Henrique
 - **RM**: 554493
-- **Nome**: Oliver
-- **RM**: 554954
 - **Nome**: Pedro Gutierre
 - **RM**: 555445
-- **Nome**: William
-- **RM**: 555132
 
 ## Projeto: Tradução e Conversão para JSON de Dados Geoespaciais
 
